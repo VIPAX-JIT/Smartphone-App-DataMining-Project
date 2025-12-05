@@ -1,0 +1,82 @@
+--- Google Play Store ---
+Total Rows: 2312944
+Total Columns: 24
+Columns:
+  - App Name
+  - App Id
+  - Category
+  - Rating
+  - Rating Count
+  - Installs
+  - Minimum Installs
+  - Maximum Installs
+  - Free
+  - Price
+  - Currency
+  - Size
+  - Minimum Android
+  - Developer Id
+  - Developer Website
+  - Developer Email
+  - Released
+  - Last Updated
+  - Content Rating
+  - Privacy Policy
+  - Ad Supported
+  - In App Purchases
+  - Editors Choice
+  - Scraped Time
+
+Missing Values:
+  - App Name: 5 (0.00%)
+  - Rating: 22883 (0.99%)
+  - Rating Count: 22883 (0.99%)
+  - Installs: 107 (0.00%)
+  - Minimum Installs: 107 (0.00%)
+  - Currency: 135 (0.01%)
+  - Size: 196 (0.01%)
+  - Minimum Android: 6530 (0.28%)
+  - Developer Id: 33 (0.00%)
+  - Developer Website: 760835 (32.89%)
+  - Developer Email: 31 (0.00%)
+  - Released: 71053 (3.07%)
+  - Privacy Policy: 420953 (18.20%)
+
+==============================
+
+--- Apple App Store ---
+Total Rows: 1230376
+Total Columns: 21
+Columns:
+  - App_Id
+  - App_Name
+  - AppStore_Url
+  - Primary_Genre
+  - Content_Rating
+  - Size_Bytes
+  - Required_IOS_Version
+  - Released
+  - Updated
+  - Version
+  - Price
+  - Currency
+  - Free
+  - DeveloperId
+  - Developer
+  - Developer_Url
+  - Developer_Website
+  - Average_User_Rating
+  - Reviews
+  - Current_Version_Score
+  - Current_Version_Reviews
+
+Missing Values:
+  - App_Name: 1 (0.00%)
+  - Size_Bytes: 224 (0.02%)
+  - Released: 3 (0.00%)
+  - Price: 490 (0.04%)
+  - Developer_Url: 1109 (0.09%)
+  - Developer_Website: 643988 (52.34%)
+
+==============================
+
